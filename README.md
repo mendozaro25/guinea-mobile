@@ -1,7 +1,5 @@
-```markdown
-# Guinea Mobile API
 
-![Python](https://img.shields.io/badge/Python-3.8%20%7C%203.9%20%7C%203.10-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-latest-green) ![Uvicorn](https://img.shields.io/badge/Uvicorn-latest-brightgreen)
+# Guinea Mobile API
 
 Este es un proyecto backend desarrollado con **FastAPI**, un framework moderno y rápido para construir APIs en Python. El servidor está implementado con **Uvicorn**, un servidor ASGI de alto rendimiento.
 
