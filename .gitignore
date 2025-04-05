@@ -1,0 +1,17 @@
+/.pytest_cache
+/.vscode
+/lib
+/scripts
+/include
+/tests
+
+app/__pycache__/*
+
+app/core/__pycache__/*
+app/core/entities/__pycache__/*
+app/core/use_cases/__pycache__/*
+app/core/repositories/__pycache__/*
+
+app/infrastructure/database/__pycache__/*
+app/infrastructure/http/__pycache__/*
+app/infrastructure/repositories/__pycache__/*
